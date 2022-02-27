@@ -1,0 +1,2 @@
+@keyframes slideIn{0%{transform:translateX(-100%)}to{transform:translateX(0)}}#bk{animation:"1s ease-out 0s 1 slideIn"}.submit{background-color:#000;border-radius:5px;padding:20px}
+/*# sourceMappingURL=main.c17c4f3d.chunk.css.map */
